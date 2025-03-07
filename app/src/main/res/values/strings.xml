@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TravailRendre</string>
+    <string name="formulaire">Formulaire</string>
+    <string name="nom">Nom et Prénom</string>
+    <string name="mail">Email</string>
+    <string name="phone">Phone</string>
+    <string name="genre">Genre</string>
+    <string name="adresse">Adresse</string>
+    <string name="ville">Ville</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="nom_hint">Nom et Prénom</string>
+    <string name="mail_hint">Email</string>
+    <string name="phone_hint">Phone</string>
+    <string name="adresse_hint">Adresse</string>
+    <string name="ville_hint">Ville</string>
+    <array name="villes">
+        <item>Marrakech</item>
+        <item>Rabat</item>
+        <item>Fes</item>
+    </array>
+</resources>
